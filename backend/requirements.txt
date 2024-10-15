@@ -1,5 +1,5 @@
 fastapi==0.104.1
-starlette==0.27.0
+starlette==0.40.0
 fastapi-cache2==0.2.1
 fastapi-users==12.1.2
 fastapi-users-db-sqlalchemy==6.0.1
